@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 Node-Js-Binary-Js-UploadStream
 ==============================
-=======
 # File Uploading and Streaming with Node.js
 
 A while back, if you wanted to stream binary data via JavaScript - such as
@@ -604,4 +603,4 @@ over here in the comments section, so the rest of us can revel in awe!
 
 Well that's it folks, I hope you enjoyed my very first Node.js tutorial
 @ OlinData, expect more to come in the near future :)
->>>>>>> Update !
+
